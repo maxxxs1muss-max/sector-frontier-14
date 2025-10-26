@@ -66,7 +66,6 @@ public sealed partial class StarmapSystem : SharedStarmapSystem
             var count = comp.StarMap.RemoveAll(s => s.Map == removed);
             if (count > 0)
             {
-                Dirty(uid, comp);
                 changed = true;
             }
         }
