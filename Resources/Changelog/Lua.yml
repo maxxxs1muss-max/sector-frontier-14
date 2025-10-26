@@ -2176,3 +2176,16 @@ Entries:
   id: 160
   time: '2025-10-26T11:36:28.0000000+00:00'
   url: https://github.com/Lua-Frontier/sector-frontier-14/pull/325
+- author: salo2016
+  changes:
+    - type: Fix
+      message: >-
+        Ампулу нельзя вставить/заменить через закрытый ЭП отсек; Исправлен баг в
+        коде вызывающий ранее не критичные ошибки;
+    - type: Tweak
+      message: Вставка ампулы занимает две секунды;
+    - type: Tweak
+      message: Ампула больше не взрывается;
+  id: 161
+  time: '2025-10-26T11:36:58.0000000+00:00'
+  url: https://github.com/Lua-Frontier/sector-frontier-14/pull/311
