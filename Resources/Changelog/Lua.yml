@@ -2383,3 +2383,16 @@ Entries:
   id: 174
   time: '2025-11-07T16:30:53.0000000+00:00'
   url: https://github.com/Lua-Frontier/sector-frontier-14/pull/355
+- author: Pcolik505
+  changes:
+    - type: Tweak
+      message: Перевод имени и описания кота Культа Крови.
+    - type: Tweak
+      message: Перевод имени и описания кота с электростанции Эдисона.
+    - type: Fix
+      message: >-
+        Удален вайтлист на роль кота с электростанции Эдисона (по запросу из
+        https://github.com/Lua-Frontier/sector-frontier-14/issues/194)
+  id: 175
+  time: '2025-11-07T16:51:53.0000000+00:00'
+  url: https://github.com/Lua-Frontier/sector-frontier-14/pull/360
