@@ -2489,3 +2489,14 @@ Entries:
   id: 182
   time: '2025-11-23T13:57:13.0000000+00:00'
   url: https://github.com/Lua-Frontier/sector-frontier-14/pull/371
+- author: fox76055
+  changes:
+    - type: Remove
+      message: CLS-Hermes, CLS-mammoth удалены с верфи.
+    - type: Tweak
+      message: >-
+        CLS-Devastator: Название изменено на kaleidoscope, а также полный ремап
+        самого корабля.
+  id: 183
+  time: '2025-11-23T14:38:34.0000000+00:00'
+  url: https://github.com/Lua-Frontier/sector-frontier-14/pull/372
