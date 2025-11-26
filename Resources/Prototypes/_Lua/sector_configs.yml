@@ -102,7 +102,7 @@
   station: MercMap
   autoStart: true
   defaultGamePreset: NFPirates
-  requiredGamePresets: [ NFPirates ]
+  requiredGamePresets: [ NFPirates, LuaAdventure ]
   parallaxPool: [ MercenaryPlanet, Sky ]
   deadDropEnabled: true
   deadDropCount: 1
