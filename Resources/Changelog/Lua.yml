@@ -2582,3 +2582,10 @@ Entries:
   id: 190
   time: '2025-11-27T13:18:51.0000000+00:00'
   url: https://github.com/Lua-Frontier/sector-frontier-14/pull/382
+- author: fox76055
+  changes:
+    - type: Tweak
+      message: Devastator rename revert. (Снова ремап внутренней части корабля)
+  id: 191
+  time: '2025-11-27T13:32:19.0000000+00:00'
+  url: https://github.com/Lua-Frontier/sector-frontier-14/pull/383
