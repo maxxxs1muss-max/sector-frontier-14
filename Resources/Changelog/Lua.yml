@@ -2660,3 +2660,20 @@ Entries:
   id: 195
   time: '2025-12-02T09:24:10.0000000+00:00'
   url: https://github.com/Lua-Frontier/sector-frontier-14/pull/351
+- author: fox76055
+  changes:
+    - type: Add
+      message: >-
+        Добавлена возможность крафта в резательном станке новых полов с
+        Shiptest, Beestation, LuaWorld.
+    - type: Add
+      message: Переводы недавно добавленных полов с Shiptest, Beestation, LuaWorld.
+    - type: Add
+      message: Диагональные покрытия, решётки, укреплённая внешняя обшивка (ГМпол)
+    - type: Add
+      message: Возможность установки диагональных покрытий, решёток в корабельном РСУ.
+    - type: Fix
+      message: Полы LuaWorld теперь выпадают.
+  id: 196
+  time: '2025-12-02T13:29:19.0000000+00:00'
+  url: https://github.com/Lua-Frontier/sector-frontier-14/pull/391
