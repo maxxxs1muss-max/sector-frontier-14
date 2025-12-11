@@ -93,6 +93,8 @@ entities:
     - type: Transform
       pos: 0.300148,-0.45872116
       parent: invalid
+    - type: BecomesStation
+      id: Typan
     - type: MapGrid
       chunks:
         0,0:
